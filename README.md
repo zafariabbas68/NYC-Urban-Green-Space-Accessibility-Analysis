@@ -314,7 +314,7 @@ https://github.com/yourusername/nyc-park-accessibility
 ## Contact
 
 For questions about this project:
-- Email: your.email@example.com
+- Email: ghulamabbas.zafari@gmal.com
 - GitHub: @yourusername
 
 ## Acknowledgments
