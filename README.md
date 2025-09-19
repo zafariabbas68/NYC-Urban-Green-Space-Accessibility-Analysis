@@ -229,4 +229,3 @@ For questions about this project:
 - Open-source geospatial Python community
 
 This project demonstrates the power of geospatial analysis in informing urban planning decisions and promoting equitable access to public amenities.
-```
