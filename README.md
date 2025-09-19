@@ -1,7 +1,7 @@
 
 # NYC Urban Green Space Accessibility Analysis
 
-![NYC Park Accessibility](nyc_park_analysis_output/nyc_park_accessibility_composite.png)
+
 
 ## Project Overview
 
