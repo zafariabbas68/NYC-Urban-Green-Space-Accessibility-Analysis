@@ -1,5 +1,5 @@
 # NYC-Urban-Green-Space-Accessibility-Analysis
-# Professional Report: NYC Urban Green Space Accessibility Analysis
+
 
 ## Executive Summary
 
